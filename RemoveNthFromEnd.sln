@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthFromEnd", "RemoveNthFromEnd\RemoveNthFromEnd.csproj", "{95185CE0-2891-412A-8053-8E017687AADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95185CE0-2891-412A-8053-8E017687AADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95185CE0-2891-412A-8053-8E017687AADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95185CE0-2891-412A-8053-8E017687AADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95185CE0-2891-412A-8053-8E017687AADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE1919F5-9DCC-4F20-A55D-56BA1847DF47}
+	EndGlobalSection
+EndGlobal
